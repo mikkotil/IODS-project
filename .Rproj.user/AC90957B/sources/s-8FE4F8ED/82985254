@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3418002676",
+    "hash" : "0",
     "id" : "82985254",
-    "lastKnownWriteTime" : 1541098519,
-    "last_content_update" : 1541098519801,
+    "lastKnownWriteTime" : 1541099077,
+    "last_content_update" : 1541099077829,
     "path" : "~/GitHub/IODS-project/README.Rmd",
     "project_path" : "README.Rmd",
     "properties" : {
-        "cursorPosition" : "4,24",
+        "cursorPosition" : "5,40",
         "scrollLine" : "0",
         "tempName" : "Untitled1",
         "working_dir" : "default"
