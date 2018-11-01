@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541097351926.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3418002676",
+    "id" : "82985254",
+    "lastKnownWriteTime" : 1541098519,
+    "last_content_update" : 1541098519801,
+    "path" : "~/GitHub/IODS-project/README.Rmd",
+    "project_path" : "README.Rmd",
+    "properties" : {
+        "cursorPosition" : "4,24",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1",
+        "working_dir" : "default"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
