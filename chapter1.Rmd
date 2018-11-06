@@ -2,7 +2,7 @@
 
 ##Kurssi
 #Kurssin sisältö
-Kurssilla opiskellaan mm. tilastotiedettä ja opetellaan lisäksi GitHubin käyttöä.
+Kurssilla opiskellaan mm. tilastotiedettä ja opetellaan lisäksi GitHubin käyttöä. Testi  
 
 #Kurssin aikataulu
 2. periodi
